@@ -1,25 +1,32 @@
-<svg
-  width="16"
-  height="16"
-  viewBox="0 0 16 16"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <g clip-path="url(#woot-logo-clip-2342424e23u32098)">
-    <path
-      d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z"
-      fill="#2781F6"
-    />
-    <path
-      d="M11.4172 11.4172H7.70831C5.66383 11.4172 4 9.75328 4 7.70828C4 5.66394 5.66383 4 7.70835 4C9.75339 4 11.4172 5.66394 11.4172 7.70828V11.4172Z"
-      fill="white"
-      stroke="white"
-      stroke-width="0.1875"
-    />
-  </g>
-  <defs>
-    <clipPath id="woot-logo-clip-2342424e23u32098">
-      <rect width="16" height="16" fill="white" />
-    </clipPath>
-  </defs>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_58_30)">
+<mask id="mask0_58_30" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<path d="M16 0H0V16H16V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_58_30)">
+<path d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" fill="white"/>
+<g clip-path="url(#clip1_58_30)" filter="url(#filter0_d_58_30)">
+<path d="M8.00652 2C9.01407 4.67857 10.0021 7.3052 11 9.9584H9.90614C9.28401 8.3237 8.66001 6.68368 8.03586 5.04367C8.0163 5.04367 7.99674 5.04367 7.97718 5.04367C7.35365 6.68266 6.73027 8.32182 6.1055 9.96423H5C6.0015 7.31103 6.99446 4.6808 8.00652 2Z" fill="#6236FF"/>
+<path d="M6.03906 10.2886H9.87432C9.22812 11.5361 8.6004 12.7476 7.95157 14C7.30599 12.7472 6.68076 11.5338 6.03906 10.2886V10.2886Z" fill="#6236FF"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_58_30" x="1.45703" y="2" width="13.0859" height="19.0859" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3.54297"/>
+<feGaussianBlur stdDeviation="1.77149"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_58_30"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_58_30" result="shape"/>
+</filter>
+<clipPath id="clip0_58_30">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+<clipPath id="clip1_58_30">
+<rect width="6" height="12" fill="white" transform="translate(5 2)"/>
+</clipPath>
+</defs>
 </svg>
